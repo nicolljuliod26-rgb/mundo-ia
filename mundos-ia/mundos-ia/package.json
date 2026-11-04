@@ -1,0 +1,22 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Programa de consola que genera bocetos visuales de mundos imaginarios usando una API de texto y una API de imágenes gratuitas.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "videojuegos",
+    "ia",
+    "mundos",
+    "node",
+    "fetch",
+    "imagenes"
+  ],
+  "author": "Nicoll Julio",
+  "license": "ISC",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
